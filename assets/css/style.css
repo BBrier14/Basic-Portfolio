@@ -1,7 +1,41 @@
+body {
+    width: 1415px;
+    margin: 0 auto;
+}
 header {
     background-color: #ffffff;
     font-family: georgia, times, Times New Roman, serif;
-    width: 1300px;
+    width: 1425px;
     height: 90px;
-    border-bottom: 5px solid #dddddd;
+    margin: 0px auto;
+    border-bottom: 2px solid #dddddd;
 }
+
+#name {
+    background: #4aaaa5;
+    color: #ffffff;
+    width: 200px;
+    padding: 6px;
+    margin-left: 150px;
+    float: left;
+}
+
+nav {
+    margin-left: 900px;
+    padding-top: 30px;
+}
+
+li {
+    color: grey;
+    display: inline;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    padding: 15px;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+}
+
+
