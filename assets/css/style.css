@@ -1,11 +1,11 @@
 body {
-    width: 1415px;
+    width: 1420px;
     margin: 0 auto;
 }
 header {
     background-color: #ffffff;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    width: 1425px;
+    width: 1420px;
     height: 90px;
     margin: 0px auto;
     border-bottom: 2px solid #dddddd;
@@ -17,7 +17,7 @@ header {
     text-align: center;
     width: 200px;
     padding: 6px;
-    margin-left: 150px;
+    margin-left: 230px;
     float: left;
 }
 
@@ -48,9 +48,9 @@ img {
     border-color: #dddddd;
     border-width: 2px;
     height: 450px;
-    width: 1030px;
+    width: 958px;
     margin-top: 30px;
-    margin-left: 150px;
+    margin-left: 230px;
     margin-bottom: 200px;
 }
 
@@ -63,7 +63,7 @@ h2 {
 }
 
 hr {
-    width: 975px;
+    width: 905px;
     margin-left: 25px;
 }
 
