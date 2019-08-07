@@ -4,7 +4,7 @@ body {
 }
 header {
     background-color: #ffffff;
-    font-family: georgia, times, Times New Roman, serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     width: 1425px;
     height: 90px;
     margin: 0px auto;
@@ -36,6 +36,9 @@ li {
 img {
     width: 300px;
     height: 250px;
+    padding-left: 25px;
+    padding-right: 5px;
+    float: left;
 }
 
 #aboutme {
@@ -48,6 +51,25 @@ img {
     margin-top: 30px;
     margin-left: 150px;
     margin-bottom: 200px;
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-weight: bolder;
+    color: #4aaaa5;
+    padding-left: 25px;
+}
+
+hr {
+    width: 975px;
+    margin-left: 25px;
+}
+
+p {
+    margin-left: 5px;
+    margin-right: 5px;
+    line-height: 20px;
 }
 
 
