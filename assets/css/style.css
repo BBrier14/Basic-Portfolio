@@ -89,3 +89,14 @@ footer {
 
 /* Contact Page */
 
+#contact {
+    background-color: #ffffff;
+    margin-left: 230px;
+    margin-right: 230px;
+    margin-bottom: 200px;
+    height: 450px;
+}
+
+form {
+    padding-left: 25px;
+}
