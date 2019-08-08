@@ -91,7 +91,11 @@ footer {
 
 #contact {
     background-color: #ffffff;
+    border-color: #dddddd;
+    border-width: 2px;
+    border-style: solid;
     margin-left: 230px;
+    margin-top: 20px;
     margin-right: 230px;
     margin-bottom: 200px;
     height: 450px;
@@ -99,4 +103,19 @@ footer {
 
 form {
     padding-left: 25px;
+}
+
+#name2, #email, #message {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+#submit {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 65px;
+    height: 30px;
 }
